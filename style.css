@@ -96,7 +96,7 @@ p {
     color: black;
     font-weight: bolder;
     position: relative;
-    z-index: 1;
+/*     z-index: 1; */
 }
 
 .features-box {
